@@ -1,0 +1,15 @@
+D:\Visual studio\HostelManagment\HostelManagment\bin\Debug\HostelManagment.exe.config
+D:\Visual studio\HostelManagment\HostelManagment\bin\Debug\HostelManagment.exe
+D:\Visual studio\HostelManagment\HostelManagment\bin\Debug\HostelManagment.pdb
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.csproj.AssemblyReference.cache
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Form1.resources
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Properties.Resources.resources
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.csproj.GenerateResource.cache
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.csproj.CoreCompileInputs.cache
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.exe
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.pdb
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Rooms.resources
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Clients.resources
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Employee.resources
+D:\Visual studio\HostelManagment\HostelManagment\obj\Debug\HostelManagment.Fees.resources
